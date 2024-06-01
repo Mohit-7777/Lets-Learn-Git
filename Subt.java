@@ -5,4 +5,3 @@ public class Subt {
         System.out.println(b-a);
     }
 }
-
